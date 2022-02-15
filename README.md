@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-monowu/monowu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Who am I ?
+
+- 2.5 years Front-end developer
+- 3+ years Back-end developer
+- VSCode :heart: 
+- JavaScript / TypeScript :cat: 
+- shell script / linux command / FFMpeg
+
